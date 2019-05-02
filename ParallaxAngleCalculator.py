@@ -37,5 +37,3 @@ astronomicalUnit = parsecsDistance * 206264.806
 
 # Program prints the star's distance from Earth in Astronomical Units (AU).
 print(starName, "has a distance of", astronomicalUnit, "AU.")
-
-
